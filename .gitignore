@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Internal docs - DO NOT COMMIT
+INTERNAL_EVAL_GUIDE.md
